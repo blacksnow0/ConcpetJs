@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "67d08d4a843a82aceb728367",
+    "content": "Perception are thoughts of oneself",
+    "userId": { "_id": "67d04f1470a70f68ff2d0c80", "username": "sid" },
+    "__v": 0
+  },
+  {
+    "_id": "67d08dd3b10c0a7d4ffcba87",
+    "content": "Kanye is the GOAT!!!",
+    "userId": { "_id": "67cb09c2536b50044b67e0cd", "username": "himanshu" },
+    "__v": 0
+  },
+  {
+    "_id": "67d08e09b10c0a7d4ffcba89",
+    "content": "Tatum is the face of the league",
+    "userId": { "_id": "67cb09c2536b50044b67e0cd", "username": "himanshu" },
+    "__v": 0
+  },
+  {
+    "_id": "67d090c755db756e6bded15f",
+    "content": "Put yourself in situation where you are not comfortable, OH YEAH! Thats my favourite saying! ~LeCap",
+    "userId": { "_id": "67cb09c2536b50044b67e0cd", "username": "himanshu" },
+    "__v": 0
+  }
+]
